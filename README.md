@@ -1,1 +1,2 @@
-# hateday_public
+# HateDay
+
